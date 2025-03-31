@@ -3,7 +3,7 @@ Python script to download dickpics from Reddit, made with love ❤
 
 **Features:**
 - Progress tracking 📈
-- Multi-threaded downloads 🚀
+- Multi-threaded turbo download mode 🚀
 - Cool 😎
 - Helpful 💖
 - Lovely ✨
