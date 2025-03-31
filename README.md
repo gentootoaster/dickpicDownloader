@@ -1,5 +1,5 @@
 ## ✨ Dickpic Downloader ✨
-Python script for downloading and dickpics from Reddit made with love ❤.
+Python script for downloading dickpics from Reddit made with love ❤.
 
 **Features:**
 - Progress tracking 📈
