@@ -9,7 +9,7 @@ Features:**
 
 ![image](https://github.com/user-attachments/assets/cd37837c-2618-43bf-9539-97465ca10966)
 
-**dependencies**
+**Dependencies**
 ```bash
 pip install requests tqdm
 ```
