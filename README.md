@@ -1,4 +1,4 @@
-#✨ Dickpic Downloader ✨
+✨## Dickpic Downloader ✨
 Python script for downloading and organizing dickpics from Reddit. Supports multi-threaded downloads 🚀, progress tracking 📈, and size estimation ⚖.
 
 **Features:**
